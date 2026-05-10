@@ -1,0 +1,13 @@
+boards:
+  - name: radiata_left
+    vendor: homerow
+    socs:
+      - name: nrf52840
+        variants:
+          - name: zmk
+  - name: radiata_right
+    vendor: homerow
+    socs:
+      - name: nrf52840
+        variants:
+          - name: zmk
